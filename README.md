@@ -3,6 +3,8 @@ AutonomIQ + WebdriverIO Example
 
 This demo repository shows how you can run Gherkin tests on the [AutonomIQ platform](https://autonomiq.io/). If you are interested in this and want to know more please feel free to reach out to me.
 
+![Screenshot 2021-05-28 at 15 53 43](https://user-images.githubusercontent.com/731337/120711599-dcf87480-c4bf-11eb-84d8-4c5de5cfae12.png)
+
 ## Requirements
 
 For this work you'll need:
